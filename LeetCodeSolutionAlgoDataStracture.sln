@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeSolutionAlgoDataStracture", "LeetCodeSolutionAlgoDataStracture\LeetCodeSolutionAlgoDataStracture.csproj", "{F7F17F6D-6732-4BCB-B74A-449CA4C5EBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F17F6D-6732-4BCB-B74A-449CA4C5EBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F17F6D-6732-4BCB-B74A-449CA4C5EBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F17F6D-6732-4BCB-B74A-449CA4C5EBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F17F6D-6732-4BCB-B74A-449CA4C5EBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123797DA-72BE-419B-80C4-81129CEE2E2F}
+	EndGlobalSection
+EndGlobal
